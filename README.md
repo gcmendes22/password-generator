@@ -1,4 +1,4 @@
-# password-generator
+# Command-line password generator
 Simple Password Generator
 
 Options:
